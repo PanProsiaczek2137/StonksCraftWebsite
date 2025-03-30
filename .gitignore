@@ -1,5 +1,7 @@
 node_modules
 
+static/modesInfoVideos/video2.webm
+
 # Output
 .output
 .vercel

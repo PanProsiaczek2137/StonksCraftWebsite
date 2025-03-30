@@ -11,16 +11,16 @@
             if (!videoElement) return;
 
             if (mode === "SMP") {
-                videoElement.src = "modesInfoVideos/video.webm";
+                videoElement.src = "modesInfoVideos/video1.mp4";
             }
             if (mode === "inny tryb") {
-                videoElement.src = "modesInfoVideos/video2.webm";
+                videoElement.src = "modesInfoVideos/video2.mp4";
             }
             if (mode === "itd") {
-                videoElement.src = "modesInfoVideos/video3.webm";
+                videoElement.src = "modesInfoVideos/video3.mp4";
             }
             if (mode === "itp") {
-                videoElement.src = "modesInfoVideos/video4.webm";
+                videoElement.src = "modesInfoVideos/video4.mp4";
             }
 
             videoElement.load(); // Załaduj nowy film po zmianie src
